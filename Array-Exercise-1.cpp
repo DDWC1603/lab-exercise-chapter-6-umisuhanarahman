@@ -7,7 +7,7 @@
 #include <iostream>
 using namespace std;
 
-int ary[5]={4, 5, 6, 7, 8};
+int ary[5]={3, 5, 6, 7, 8};
 
 int main()
 {
