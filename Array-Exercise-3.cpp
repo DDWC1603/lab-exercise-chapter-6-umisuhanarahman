@@ -3,6 +3,7 @@
 
 //dapatkan 10 input dan keluarkan hasil tambahnya.
 //hasilkan program anda dengan menggunakan array
+
 #include<iostream>
 #include<conio.h>
 using namespace std;
