@@ -14,7 +14,7 @@ int main()
     
     int n, result=0;
 	
-	for(n=0;n<10;n++)
+	for(n=0;n<5;n++)
 	{
 		result += ary[n];
 	}
